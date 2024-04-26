@@ -1,5 +1,6 @@
 # Winter Kim 
 
+ <img src="https://www.pinterest.co.kr/pin/698058010975212666/.png" width="200" height="200"/>
 
 
-_Please refer to the instructions in your course repository to know more about the workflow_
+_student of Frontend deverloper_
